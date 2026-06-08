@@ -78,6 +78,14 @@ The voice stays analytical and measured regardless of audience, but a few things
 - **Team comms.** Warmer at the edges, same precision in the middle. Acknowledge people doing the work, by name, where it fits.
 - **Customer comms.** Plainspoken. Cut jargon ruthlessly. Lead with what changes for them.
 
+## Anti-AI tells (learned from feedback)
+
+**No reframe openers.** "The debate about X is missing the real question" and "Everyone is focused on X — the real question is Y" are off-limits. They are among the most common AI constructions on LinkedIn and in thought-leadership writing. Start mid-thought, with a number, with a scene, or with the observation itself. Never with a meta-comment positioning against what others are getting wrong.
+
+**Cap the contrast structure.** Not X, but Y is useful once. Twice is intentional. Three or more in a single piece and it becomes a detectable pattern. If a third Not X / but Y appears, restructure one of the sentences instead.
+
+**Endings observe, they don't package.** A closing line should feel like the natural last thing to say, not a crafted takeaway. If it reads like a pull quote or a LinkedIn punchline, it is too clean. The test: would a smart person actually say this out loud, or does it only work written down? Land on an observation. Do not land on a slogan.
+
 ## What to do when this guide doesn't cover something
 
 Ask. Or make a call and flag that it's a call so the user can correct it. Corrections that come back become new entries in this guide or feedback files in the memory folder.
