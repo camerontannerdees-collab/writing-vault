@@ -21,4 +21,6 @@ created: YYYY-MM-DD
 
 Topics get created as the writing happens. The agent should suggest a new topic folder when a piece doesn't fit any existing one, not jam it into the closest match.
 
-_No topics yet. The first piece will seed the first folder._
+## ai-workflows
+
+- [Someone Using AI Well](ai-workflows/2026-06-08-someone-using-ai-well.md) — public essay on what it actually means to build with AI, not just chat with it. Published 2026-06-08.
